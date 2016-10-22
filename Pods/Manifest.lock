@@ -1,0 +1,61 @@
+PODS:
+  - 1PasswordExtension (1.8.4)
+  - Alamofire (4.0.1)
+  - AlamoFuzi (1.0.3):
+    - Alamofire (~> 4.0)
+    - Fuzi (~> 1.0)
+  - Eureka (2.0.0-beta.1)
+  - Fuzi (1.0.0)
+  - KeychainAccess (3.0.1)
+  - MRProgress/ActivityIndicator (0.8.3):
+    - MRProgress/Stopable
+  - MRProgress/Blur (0.8.3):
+    - MRProgress/Helper
+  - MRProgress/Circular (0.8.3):
+    - MRProgress/Helper
+    - MRProgress/ProgressBaseClass
+    - MRProgress/Stopable
+  - MRProgress/Helper (0.8.3)
+  - MRProgress/Icons (0.8.3)
+  - MRProgress/NavigationBarProgress (0.8.3):
+    - MRProgress/ProgressBaseClass
+  - MRProgress/Overlay (0.8.3):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+  - MRProgress/ProgressBaseClass (0.8.3)
+  - MRProgress/Stopable (0.8.3):
+    - MRProgress/Helper
+  - SwiftMarshal (0.0.1)
+
+DEPENDENCIES:
+  - 1PasswordExtension (~> 1.8)
+  - Alamofire (~> 4.0)
+  - AlamoFuzi (~> 1.0)
+  - Eureka (~> 2.0.0-beta)
+  - Fuzi (~> 1.0)
+  - KeychainAccess (~> 3.0)
+  - MRProgress/ActivityIndicator
+  - MRProgress/NavigationBarProgress
+  - MRProgress/Overlay
+  - SwiftMarshal (from `/Users/jonaszaugg/Documents/Projects/SwiftMarshal`)
+
+EXTERNAL SOURCES:
+  SwiftMarshal:
+    :path: "/Users/jonaszaugg/Documents/Projects/SwiftMarshal"
+
+SPEC CHECKSUMS:
+  1PasswordExtension: e775a29310c65851e5a6cec1afc349ab4e334e47
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  AlamoFuzi: e85e4d715263f420f86f1cbae903d29c8d0b088d
+  Eureka: d014adf16406745e1a78d5790ea37ed130a0a8e5
+  Fuzi: e88177b7cfdf3aa2b828c096c73551232a7f5c72
+  KeychainAccess: 017ea25e313a49eda10bb19b0bb0760fb1edfe1a
+  MRProgress: 16de7cc9f347e8846797a770db102a323fe7ef09
+  SwiftMarshal: 036ec433fb78a2d56d93b9cc94664fd5f07cd04a
+
+PODFILE CHECKSUM: b863bd23b37c768c1ff503a45afed7e3d1a17ead
+
+COCOAPODS: 1.1.1

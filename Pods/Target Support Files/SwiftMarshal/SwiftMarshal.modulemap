@@ -1,0 +1,6 @@
+framework module SwiftMarshal {
+  umbrella header "SwiftMarshal-umbrella.h"
+
+  export *
+  module * { export * }
+}
